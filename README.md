@@ -2,3 +2,4 @@
 Виконані роботи: 
 1. https://github.com/HowProgrammingWorks/DataTypes
 2. https://github.com/HowProgrammingWorks/Reusable
+3. https://github.com/HowProgrammingWorks/Function
