@@ -9,3 +9,4 @@ for(let item of mass) {
     type2[type] = (type2[type] || 0) + 1;
 }
 console.log(type2); //{boolean: 4, string: 8, number: 5}
+5

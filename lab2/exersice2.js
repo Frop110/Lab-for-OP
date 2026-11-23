@@ -17,7 +17,7 @@ console.log(ran1);
 function rangeOdd (start, end) {
     const result = [];
     for(let i = start; i <= end; i++) {
-       if(i % 2 !==0) {
+       if(i % 2) {
           result.push(i);
         }
     }

@@ -14,4 +14,4 @@ const fn = () => {
 };
 console.log(fn()); //{ person: { name: 'Emma' }, person2: { name: 'Tony' } }
 const createUser = (name, city) => ({name, city});
-console.log(createUser('Johny', 'London')); //{ person: { name: 'Emma' }, person2: { name: 'Tony' } }
+console.log(createUser('Johny', 'London')); //{ name: 'Johny', city: 'London' }

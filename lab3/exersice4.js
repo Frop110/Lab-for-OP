@@ -2,10 +2,10 @@
 
 const method = (iface) => {
     const result = [];
-    for(const key in iface) {
+    for(const key in iface) { // Проходимо по кожному ключу об'єкта
         const fn = iface[key];
-        if(typeof iface[key] === 'function'){
-            const count = fn.length;
+        if(typeof fn === 'function'){ // Перевіряємо, чи є це значення функцією
+            const count = fn.length; // Беремо к-сть аргументів через .length і назву ключа 
             result.push([key, count]);
         }
             
