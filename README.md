@@ -5,3 +5,5 @@
 2. https://github.com/HowProgrammingWorks/Reusable
 3. https://github.com/HowProgrammingWorks/Function
 4. https://github.com/HowProgrammingWorks/Iteration
+5. https://github.com/HowProgrammingWorks/Closure
+6. https://github.com/HowProgrammingWorks/Composition
