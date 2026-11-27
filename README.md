@@ -7,3 +7,5 @@
 4. https://github.com/HowProgrammingWorks/Iteration
 5. https://github.com/HowProgrammingWorks/Closure
 6. https://github.com/HowProgrammingWorks/Composition
+7. https://github.com/HowProgrammingWorks/Arrays
+8. https://github.com/HowProgrammingWorks/HigherOrderFunction
